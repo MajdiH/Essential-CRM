@@ -1,4 +1,4 @@
 Essential-CRM
 =============
 
-Essential-CRM Struts2 / MySQL / JQuery / Bootstrap 3
+Essential-CRM Application  Struts2 / MySQL / JQuery / Bootstrap 3
