@@ -4,6 +4,7 @@
 <head>
 
 <title>Struts 2 - Essential-CRM</title>
+<link rel=stylesheet title="style" href="style.css" >
 </head>
 
 <body>

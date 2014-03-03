@@ -4,6 +4,7 @@
 
 <head>
 <title>Welcome</title>
+<link rel=stylesheet title="style" href="style.css" >
 </head>
 
 <body>
